@@ -10,7 +10,7 @@ A RESTful API for a social network web application where users can share their t
 - [Visuals](#visuals)
 - [License](#license)
 - [Future](#future-development)
-- [Questions](#questions)
+- [Contact](#contact-me)
 
 ## Installation
 
@@ -27,6 +27,18 @@ see [visuals](#visuals) for the link to a walkthrough video on how to use this A
 
 ## Visuals
 
+A link to a walkthrough video:
+
+https://drive.google.com/file/d/1z5ltLZFyXejC-SOhl-poU3JbJV1jPRcI/view
+
+This demonstrates the code for getting a single user by id:
+
+![for getting a single user by id](https://github.com/user-attachments/assets/c115efa8-7504-47e4-87bc-9f09edee2aa2)
+
+This demonstrates deleting a thought:
+
+![for deleting a thought](https://github.com/user-attachments/assets/ee7ce057-a755-4a0b-9c45-332dbe0d1770)
+
 ## License
 
 MIT
@@ -35,6 +47,6 @@ MIT
 
 This project is considered complete.
 
-## Questions
+## Contact Me
 
 If you have any questions about the repo, open an issue or contact me directly at b2rn3r@yahoo.com. You can find more of my work at [ColinBurner](https://github.com/ColinBurner/).
