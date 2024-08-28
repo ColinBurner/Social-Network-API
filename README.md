@@ -49,4 +49,4 @@ This project is considered complete.
 
 ## Contact Me
 
-If you have any questions about the repo, open an issue or contact me directly at b2rn3r@yahoo.com. You can find more of my work at [ColinBurner](https://github.com/ColinBurner/).
+If you have any questions about the repo, contact me directly at b2rn3r@yahoo.com. You can find more of my work at [ColinBurner](https://github.com/ColinBurner/).
