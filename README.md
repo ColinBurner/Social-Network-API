@@ -21,7 +21,7 @@ A RESTful API for a social network web application where users can share their t
 
 ## Usage
 
-Use Insomnia or Postman to test the API routes.
+Use Insomnia to test the API routes.
 
 see [visuals](#visuals) for the link to a walkthrough video on how to use this API.
 
